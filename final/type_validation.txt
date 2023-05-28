@@ -1,0 +1,25 @@
+
+Base             Object     Referenced   Referenced                     
+Object Name      Type       Object Name  Object Type  Status            
+---------------- ---------- ------------ ------------ --------          
+BASE_T           TYPE                                 VALID             
+DWARF_T          TYPE       BASE_T       TYPE         VALID             
+ELF_T            TYPE       BASE_T       TYPE         VALID             
+GOBLIN_T         TYPE       BASE_T       TYPE         VALID             
+HOBBIT_T         TYPE       BASE_T       TYPE         VALID             
+MAIA_T           TYPE       BASE_T       TYPE         VALID             
+MAN_T            TYPE       BASE_T       TYPE         VALID             
+ORC_T            TYPE       BASE_T       TYPE         VALID             
+NOLDOR_T         TYPE       ELF_T        TYPE         VALID             
+NOLDOR_T         TYPE       BASE_T       TYPE         VALID             
+SILVAN_T         TYPE       ELF_T        TYPE         VALID             
+SILVAN_T         TYPE       BASE_T       TYPE         VALID             
+SINDAR_T         TYPE       ELF_T        TYPE         VALID             
+SINDAR_T         TYPE       BASE_T       TYPE         VALID             
+TELERI_T         TYPE       ELF_T        TYPE         VALID             
+TELERI_T         TYPE       BASE_T       TYPE         VALID             
+CONTACT_T        TYPE       BASE_T       TYPE         INVALID           
+ITEM_T           TYPE       BASE_T       TYPE         INVALID           
+
+18 rows selected.
+

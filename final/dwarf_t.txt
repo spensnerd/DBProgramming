@@ -1,0 +1,12 @@
+DROP TYPE elf_t FORCE
+*
+ERROR at line 1:
+ORA-04043: object ELF_T does not exist 
+
+
+
+Type created.
+
+
+Warning: Type Body created with compilation errors.
+

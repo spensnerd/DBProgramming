@@ -1,0 +1,13 @@
+
+PL/SQL procedure successfully completed.
+
+
+PL/SQL procedure successfully completed.
+
+BEGIN
+*
+ERROR at line 1:
+ORA-02303: cannot drop or replace a type with type or table dependents
+ORA-06512: at line 6 
+
+
